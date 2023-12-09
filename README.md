@@ -57,19 +57,47 @@ Read the full [Project Report](https://drive.google.com/file/d/1FS1v6eWn8daPhSQf
 
 ## Screenshots
 
-![Registration Interface](https://drive.google.com/file/d/1X5PAjzemwPSlWnvVkYeWV7o9jTZn7ILO/view?usp=sharing)
-![Login Interface](https://drive.google.com/file/d/1lae_eeBGGTnFp1CN4NKvU9Q8qxlxQbYI/view?usp=sharing)
-![Home Interface](https://drive.google.com/file/d/1bLmkpSIqOAQYzZdgOWgTWvVEjFH35qnx/view?usp=sharing) (https://drive.google.com/file/d/1CrZ9g7LkdMaslPruw7ooQ9n2wJ4OXuYl/view?usp=sharing)
-![About Interface](Link to the screenshot)
-![Create Product Interface](Link to the screenshot)
-![Create Category Interface](Link to the screenshot)
-![Cart Interface](Link to the screenshot)
+**Registration Interface**
+
+![Registration Interface](https://raw.githubusercontent.com/SamahSebai/Shopum/main/client/public/capture%20d'ecran%20shopum/register%20form.png)
+
+
+**Login Interface**
+
+![Login Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/login%20form.png)
+
+
+**Home Interface**
+
+![Home Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/home%20page1.png) 
+![Home Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/home%20page%202.png) 
+
+
+**About Interface**
+
+![About Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/about%20page%20.png)
+
+
+**Create Product Interface**
+
+![Create Product Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/create%20product.png)
+
+
+**Create Category Interface**
+
+![Create Category Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/create%20category.png)
+![Create Category Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/category%20liste.png)
+
+
+**Cart Interface**
+
+![Cart Interface](https://github.com/SamahSebai/Shopum/blob/main/client/public/capture%20d'ecran%20shopum/carte%20page.png)
 
 ## How to Run the Project
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Run the development server using `npm start`.
+3. Run the development server using `npm run dev`.
 
 For more details on the project and its functionalities, please refer to the full project report.
 
