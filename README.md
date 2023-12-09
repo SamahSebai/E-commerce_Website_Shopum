@@ -53,13 +53,13 @@ Check out the [Demo](https://drive.google.com/file/d/1-rniMEIvrijucNwPpJmc7mrQ2e
 
 ## Project Report
 
-Read the full [Project Report](Link to your project report document).
+Read the full [Project Report](https://drive.google.com/file/d/1FS1v6eWn8daPhSQfmGSXmSb1TP6zdTF0/view?usp=sharing).
 
 ## Screenshots
 
-![Registration Interface](Link to the screenshot)
-![Login Interface](Link to the screenshot)
-![Home Interface](Link to the screenshot)
+![Registration Interface](https://drive.google.com/file/d/1X5PAjzemwPSlWnvVkYeWV7o9jTZn7ILO/view?usp=sharing)
+![Login Interface](https://drive.google.com/file/d/1lae_eeBGGTnFp1CN4NKvU9Q8qxlxQbYI/view?usp=sharing)
+![Home Interface](https://drive.google.com/file/d/1bLmkpSIqOAQYzZdgOWgTWvVEjFH35qnx/view?usp=sharing) (https://drive.google.com/file/d/1CrZ9g7LkdMaslPruw7ooQ9n2wJ4OXuYl/view?usp=sharing)
 ![About Interface](Link to the screenshot)
 ![Create Product Interface](Link to the screenshot)
 ![Create Category Interface](Link to the screenshot)
